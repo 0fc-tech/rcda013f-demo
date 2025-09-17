@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jefaisunebetise" />
+            <option value="$PROJECT_DIR$/mod2classe" />
+            <option value="$PROJECT_DIR$/mod2demo1variable" />
+            <option value="$PROJECT_DIR$/mod2demo2conditions" />
+            <option value="$PROJECT_DIR$/mod2heritage" />
+            <option value="$PROJECT_DIR$/mod2interface" />
+            <option value="$PROJECT_DIR$/mod3compose" />
+            <option value="$PROJECT_DIR$/mod3lazycolumn" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
