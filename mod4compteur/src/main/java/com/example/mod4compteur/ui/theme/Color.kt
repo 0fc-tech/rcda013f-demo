@@ -1,4 +1,4 @@
-package com.example.jefaisunebetise.ui.theme
+package com.example.mod4compteur.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

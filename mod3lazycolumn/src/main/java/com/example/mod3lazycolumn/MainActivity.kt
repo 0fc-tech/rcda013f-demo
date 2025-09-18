@@ -23,6 +23,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.Icon
 import androidx.compose.material3.ListItem
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 
 class MainActivity : ComponentActivity() {
@@ -53,7 +54,7 @@ class MainActivity : ComponentActivity() {
                                         Text("$it",)
                                     },
                                     supportingContent = {
-                                        Text("Sous-titre",)
+                                        Text("Sous-titre", color = Color.Blue)
                                     }
                                 )
                             }

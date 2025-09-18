@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="11">
       <module name="Demonstrations.app.jefaisunebetise" target="21" />
+      <module name="Demonstrations.jefaisunebetise" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

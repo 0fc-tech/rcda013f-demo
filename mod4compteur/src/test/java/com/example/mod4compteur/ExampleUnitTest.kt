@@ -1,4 +1,4 @@
-package com.example.jefaisunebetise
+package com.example.mod4compteur
 
 import org.junit.Test
 

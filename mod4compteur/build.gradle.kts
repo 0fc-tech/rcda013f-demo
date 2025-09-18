@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jefaisunebetise"
+    namespace = "com.example.mod4compteur"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.jefaisunebetise"
+        applicationId = "com.example.mod4compteur"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

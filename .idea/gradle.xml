@@ -11,7 +11,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/jefaisunebetise" />
             <option value="$PROJECT_DIR$/mod2classe" />
             <option value="$PROJECT_DIR$/mod2demo1variable" />
             <option value="$PROJECT_DIR$/mod2demo2conditions" />
@@ -19,6 +18,7 @@
             <option value="$PROJECT_DIR$/mod2interface" />
             <option value="$PROJECT_DIR$/mod3compose" />
             <option value="$PROJECT_DIR$/mod3lazycolumn" />
+            <option value="$PROJECT_DIR$/mod4compteur" />
           </set>
         </option>
       </GradleProjectSettings>
