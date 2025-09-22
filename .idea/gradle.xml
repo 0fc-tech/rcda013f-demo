@@ -19,8 +19,11 @@
             <option value="$PROJECT_DIR$/mod3compose" />
             <option value="$PROJECT_DIR$/mod3lazycolumn" />
             <option value="$PROJECT_DIR$/mod4compteur" />
+            <option value="$PROJECT_DIR$/mod4compteur_vendredi" />
             <option value="$PROJECT_DIR$/mod4formulaire" />
+            <option value="$PROJECT_DIR$/mod4formulaire_vendredi" />
             <option value="$PROJECT_DIR$/mod4viewmodel" />
+            <option value="$PROJECT_DIR$/mod4viewmodel_vendredi" />
           </set>
         </option>
       </GradleProjectSettings>
