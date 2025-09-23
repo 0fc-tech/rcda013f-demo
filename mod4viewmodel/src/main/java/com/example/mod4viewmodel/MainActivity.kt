@@ -49,7 +49,7 @@ fun NotesScreen(
     modifier: Modifier = Modifier,
     viewModel: NotesViewModel = viewModel()) {
     val notes by viewModel.notes.collectAsState()
-    val moyenne by viewModel.moyenne.collectAsState()
+    //val moyenne by viewModel.moyenne.collectAsState()
 
     var noteForm by rememberSaveable { mutableStateOf("")}
     Column(modifier.padding(32.dp)) {
@@ -58,7 +58,7 @@ fun NotesScreen(
                 note -> Text(note.toString())
             }
         }
-        Text("La moyenne est de $moyenne")
+       // Text("La moyenne est de $moyenne")
         //Formulaire
         Row {
             OutlinedTextField(noteForm, onValueChange = {noteForm = it})
