@@ -26,6 +26,8 @@
             <option value="$PROJECT_DIR$/mod4viewmodel" />
             <option value="$PROJECT_DIR$/mod4viewmodel_vendredi" />
             <option value="$PROJECT_DIR$/mod5intentimplicite" />
+            <option value="$PROJECT_DIR$/mod5navigation" />
+            <option value="$PROJECT_DIR$/mod5unittest" />
           </set>
         </option>
       </GradleProjectSettings>
