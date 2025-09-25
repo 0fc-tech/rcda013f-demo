@@ -2,6 +2,7 @@ package com.example.mod6sqlite.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.ViewModelProvider.AndroidViewModelFactory.Companion.APPLICATION_KEY
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
@@ -131,7 +132,7 @@ class ListBooksViewModel(private val bookDao: BookDao) : ViewModel() {
     companion object{
         val Factory : ViewModelProvider.Factory = viewModelFactory {
             initializer {
-                val context = this[ViewModelProvider.AndroidViewModelFactory.APPLICATION_KEY]?.applicationContext
+                val context = this[APPLICATION_KEY]?.applicationContext
                 val bookDao = BookDao(BookDbHelper(checkNotNull(context)).writableDatabase)
                 ListBooksViewModel(bookDao)
             }
