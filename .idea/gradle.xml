@@ -28,6 +28,7 @@
             <option value="$PROJECT_DIR$/mod5intentimplicite" />
             <option value="$PROJECT_DIR$/mod5navigation" />
             <option value="$PROJECT_DIR$/mod5unittest" />
+            <option value="$PROJECT_DIR$/mod6datastore" />
           </set>
         </option>
       </GradleProjectSettings>
