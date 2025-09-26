@@ -29,7 +29,9 @@
             <option value="$PROJECT_DIR$/mod5navigation" />
             <option value="$PROJECT_DIR$/mod5unittest" />
             <option value="$PROJECT_DIR$/mod6datastore" />
+            <option value="$PROJECT_DIR$/mod6room" />
             <option value="$PROJECT_DIR$/mod6sqlite" />
+            <option value="$PROJECT_DIR$/mod7retrofit" />
           </set>
         </option>
       </GradleProjectSettings>
